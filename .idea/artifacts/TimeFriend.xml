@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TimeFriend">
+    <output-path>F:/software/tomacat/apache-tomcat-7.0.67/webapps/tfriend</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TimeFriend/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TimeFriend" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
