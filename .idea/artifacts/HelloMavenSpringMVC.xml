@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="TimeFriend">
+  <artifact type="exploded-war" name="HelloMavenSpringMVC">
     <output-path>F:/software/tomacat/apache-tomcat-7.0.67/webapps/tfriend</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="TimeFriend/web/Web" />
